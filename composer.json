@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tareq1988/wp-eloquent": "dev-master",
+        "twilio/sdk": "^5.34"
+    }
+}
